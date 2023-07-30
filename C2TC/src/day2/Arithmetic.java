@@ -1,4 +1,4 @@
-package basic_day1;
+package day2;
 
 public class Arithmetic {
 
